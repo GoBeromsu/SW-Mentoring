@@ -101,4 +101,8 @@
    - 저는 test.py를 만들었습니다
      ![image](https://user-images.githubusercontent.com/37897508/160081796-101522fa-463c-4cf3-8c69-f7299c636133.png)
 3. Github Desktop을 실행시킨 후 왼쪽 하단에 Summery (required)에 commit message를 작성하고 Commit to main 클릭합시다
-    ![image](https://user-images.githubusercontent.com/37897508/160082123-b5023031-0dd8-4743-94cb-1d636095c414.png)
+   ![image](https://user-images.githubusercontent.com/37897508/160082123-b5023031-0dd8-4743-94cb-1d636095c414.png)
+4. 오른쪽 상단의 fetch origin이 Push origin으로 바뀌었습니다. 클릭해주세요
+5. 이제 끝났습니다. 자신의 깃허브 홈페이지에 들어가서 파일이 잘 올라가졌나 확인해봅시다
+   - 아까 만든 test.py가 잘 올라가졌음을 알 수 있습니다
+    ![image](https://user-images.githubusercontent.com/37897508/160082732-f857a135-a4b7-453a-84a5-78ac8f2f7833.png)
