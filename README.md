@@ -97,9 +97,9 @@
 1. 자신의 PC에서 Clone한 저장소 폴더에서 오른쪽 마우스 클릭 후 vscode를 실행시킵니다.
    ![image](https://user-images.githubusercontent.com/37897508/160080889-28f138b9-ff21-47d6-b18d-308879abae10.png)
 2. 파일 탐색기(왼쪽 탭에서 파일들 많이 보이는 사각형)에서 오른쪽 마우스 클릭 후 임의로 새 파일을 만듭니다.
-   - ![image](https://user-images.githubusercontent.com/37897508/160081349-7e0b8fc7-9b0d-4f95-aa07-87c7deb1b5f6.png)
+  ![image](https://user-images.githubusercontent.com/37897508/160081349-7e0b8fc7-9b0d-4f95-aa07-87c7deb1b5f6.png)
    - 저는 test.py를 만들었습니다
-     ![image](https://user-images.githubusercontent.com/37897508/160081796-101522fa-463c-4cf3-8c69-f7299c636133.png)
+   ![image](https://user-images.githubusercontent.com/37897508/160081796-101522fa-463c-4cf3-8c69-f7299c636133.png)
 3. Github Desktop을 실행시킨 후 왼쪽 하단에 Summery (required)에 commit message를 작성하고 Commit to main 클릭합시다
    ![image](https://user-images.githubusercontent.com/37897508/160082123-b5023031-0dd8-4743-94cb-1d636095c414.png)
 4. 오른쪽 상단의 fetch origin이 Push origin으로 바뀌었습니다. 클릭해주세요
