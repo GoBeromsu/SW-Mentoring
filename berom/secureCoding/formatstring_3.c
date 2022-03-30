@@ -1,10 +1,9 @@
 #include <stdio.h>
-
 int main()
 {
-    int pos=3;
-    int x = 235;
-    int y = 93;
-    printf("%d %n%d\n", x, &pos, y); //%n 지시자 사용
-    printf("The offset was %d\n", pos);
+
+    char str[15] = "Hello, World!\n";
+    printf("%s\n", str); // 문자열 인식
+    printf(str);       // 형식 지시자를 포함한 포맷 스트링
+    return 0;
 }
