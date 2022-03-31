@@ -31,3 +31,6 @@ printf("This is our %d th presentation ")
 ## Reference
 
 - [함수 호출 규약](https://s1m0hya.tistory.com/19)
+- [c/c++ 함수 호츌 규약](https://over-stack.tistory.com/23)
+- [FSB](file:///C:/Users/Com/Downloads/FSB.pdf)
+- [ftz set up](https://mandu-mandu.tistory.com/23)
