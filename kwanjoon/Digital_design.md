@@ -25,3 +25,5 @@
 ### relation between minterms and maxterms
     - They are complementary to each other.
     - Same meaning as (m1)' = M1.
+- Demorgan's Law
+  
