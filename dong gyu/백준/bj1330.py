@@ -1,8 +1,8 @@
-x,y=input().split()
+x,y=map(int,input().split())
 
-if int(x)>int(y):
+if x>y:
     print('>')
-elif int(x)==int(y):
+elif x==y:
     print('==')
-elif int(x)<int(y):
+elif x<y:
     print('<')
