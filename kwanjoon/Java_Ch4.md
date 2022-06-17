@@ -23,7 +23,7 @@
 ### new 연산자와 객체생성
 
     public static void main (String args[]){
-        Human KJ; // 래퍼런스 변수 pizza 선언
+        Human KJ; // 래퍼런스 변수 KJ 선언
         KJ = new Human(); // Human 객체 생성
         /* Human KJ = new Human(); 래퍼런스 변수 선언과 객체 생성 동시에 실행 */
 
